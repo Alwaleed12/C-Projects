@@ -2,7 +2,7 @@
 #include "./headers/Loops.h"
 
 /* this function will use a while loop */
-void loops1 {
+void loops1 (void){
     // declare loop counter variable and initialize it
     int i = START;
 
