@@ -13,6 +13,7 @@
 void congratulate1(char *student, char *course, char *programmer){
     printf("%s has done as much %s programming as %s.\n",
     student, course, programmer);
+    congratulate2(student, course, programmer);
 }
 
 /* this function has 3 parameters and it also has a local variable */
