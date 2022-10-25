@@ -61,7 +61,7 @@ void loops4 (void){
     printf("early blastoff\n");
 }
 
-/* this function uses a continue statement to skup the current
+/* this function uses a continue statement to skip the current
 * iteration of a loop */
 void loops5(void){
     // declare loop counter variable
